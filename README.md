@@ -1,6 +1,7 @@
 # GrootAI Technical Seminar
 - https://grootai.github.io/
 
+
 ### Seminar Topics 
 - Deep Learning
 - Machine Learning 
@@ -10,13 +11,14 @@
 
 
 ### Schedule (can be postponed or changed in some reason, e.g. holiday)
+- Check Issues(https://github.com/GrootAI/Groot_SEMINAR/issues)
 - Reproduce seminar (Thu, 14:00 ~ 15:00)
 - Tech seminar (Fri, 14:00 ~ 15:00)
 
 
 ### Meeting room
 - Offline: Announced before seminar (via `KaKaoTalk`)
-- Online: Zoom of @Jinhwan Suk (https://line.zoom.us/my/kmkim?pwd=Z2lIS3VDSU82YkpHL0VRa0lKMC9Wdz09)
+- Online: Zoom of @Jinhwan Suk (https://zoom.us/j/3885426897?pwd=UkFRQU9pdEhlOUs3VklwcjY2VHFOUT09)
 
 
 ### How to host a seminar
@@ -32,5 +34,10 @@
   - Please open an issue at least a day before the seminar and close the issue after it is presented (if you forget, simply open-and-close an issue after the seminar)
   - After seminar, it would be perfect if we can share our discussion during the seminar as comments
   
+### Other things to know
+- Slideshare: https://www.slideshare.net/SEMINARGROOT
+- YouTube: https://www.youtube.com/channel/UC257FbjhRGK9MMHyXXAyrTg
+- Google Drive: https://bit.ly/3c40fEi
+- Linkedin Group: https://www.linkedin.com/groups/10542314/
   
 
