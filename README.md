@@ -1,3 +1,5 @@
+![diagram](ppt template.png)
+
 # GrootAI Technical Seminar
 - https://grootai.github.io/
 
