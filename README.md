@@ -1,8 +1,16 @@
 # GrootAI Technical Seminar
 
+### Seminar Topics 
+- Deep Learning
+- Machine Learning 
+- Statistical Learning
+- Algorithms/Clean code for ML
+- Mathmatics & Statistics
+
+
 ### Schedule (can be postponed or changed in some reason, e.g. holiday)
-- Engineering seminar (Thu, 14:00 ~ 15:00)
-- Machine learning seminar (Fri, 14:00 ~ 15:00)
+- Reproduce seminar (Thu, 14:00 ~ 15:00)
+- Tech seminar (Fri, 14:00 ~ 15:00)
 
 
 ### Meeting room
