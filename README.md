@@ -1,5 +1,4 @@
-![Image](ppt_template.png)
-![Image]<a href="url"><img src="https://github.com/GrootAI/Groot_SEMINAR/blob/main/ppt_template.png" height="48" width="48" ></a>
+<a href="url"><img src="https://github.com/GrootAI/Groot_SEMINAR/blob/main/ppt_template.png" height="90" width="160" ></a>
 
 # GrootAI Technical Seminar
 - https://grootai.github.io/
