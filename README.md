@@ -1,4 +1,4 @@
-![diagram](ppt template.png)
+![Image](ppt template.png)
 
 # GrootAI Technical Seminar
 - https://grootai.github.io/
