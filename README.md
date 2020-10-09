@@ -11,7 +11,7 @@
 
 
 ### Schedule (can be postponed or changed in some reason, e.g. holiday)
-- Check Issues(https://github.com/GrootAI/Groot_SEMINAR/issues)
+- Check [Issues](https://github.com/GrootAI/Groot_SEMINAR/issues)
 - Reproduce seminar (Thu, 14:00 ~ 15:00)
 - Tech seminar (Fri, 14:00 ~ 15:00)
 
