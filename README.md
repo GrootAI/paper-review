@@ -1,5 +1,5 @@
 # GrootAI Technical Seminar
--https://grootai.github.io/
+- https://grootai.github.io/
 
 ### Seminar Topics 
 - Deep Learning
