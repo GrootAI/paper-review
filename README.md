@@ -1,4 +1,4 @@
-![Image](ppt_template.png)
+![Image](ppt_template.png){:height="50%" width="50%"}
 
 # GrootAI Technical Seminar
 - https://grootai.github.io/
