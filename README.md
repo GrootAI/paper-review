@@ -1,6 +1,6 @@
 
 # GrootAI Technical Seminar
-<a href="url"><img src="https://github.com/GrootAI/Groot_SEMINAR/blob/main/ppt_template.png" height="387" width="688" ></a>
+<a href="url"><img src="https://github.com/GrootAI/Groot_SEMINAR/blob/main/ppt_template.png" height="342" width="608" ></a>
 - https://grootai.github.io/
 
 
