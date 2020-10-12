@@ -1,7 +1,10 @@
 
 # GrootAI Technical Seminar
+<p align="center">
 <a href="url"><img src="https://github.com/GrootAI/Groot_SEMINAR/blob/main/ppt_template.png" height="297" width="528" ></a>
-- https://grootai.github.io/
+</p>
+
+- [GrootAI](https://grootai.github.io/) is **Machine Learning Study Group** composed of people from various fields. It started in March 2018. 
 
 
 ### Seminar Topics 
