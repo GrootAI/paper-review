@@ -31,7 +31,7 @@
   - Format: [YYYY-MM-DD] AWESOME-SEMINAR (e.g. [2010-05-20] [how to train your dragon](https://www.imdb.com/title/tt0892769/))
 - Ground rules
   - Anyone can present any topic 
-  - You can download a official [ppt template](https://drive.google.com/file/d/1VIJr9vvQYGFJWpO32gsnGVVApetojBJe/view?usp=sharing)
+  - You can download a official [ppt template](https://drive.google.com/file/d/116HYF9JBcDrhKK43PMxDUCNedRy0aDcm/view?usp=sharing)
   - Don't have to present about a published paper or an official material (e.g. you can present something like your know-how)
 - Some recommendations
   - If there are any references or materials (e.g. your own PPT, blog article, or paper link), please list up them in the body of issue before the seminar
